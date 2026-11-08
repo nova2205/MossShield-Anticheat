@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="assets/logo.png" alt="MossShield" width="140">
+  <img src="https://r2.mossshield.xyz/brand/feed-logo-256.png" alt="MossShield" width="140">
 </p>
 
-<h1 align="center">MossShield, the FiveM anticheat that bans on the spot</h1>
+<h1 align="center">MossShield</h1>
 
 <p align="center">
-  <b>One line to install. Cheaters banned the moment they cheat. Proof straight to your Discord.</b><br>
-  For ESX, QBCore, QBox and standalone servers with OneSync.
+  <b>Your server. No cheaters.</b><br>
+  FiveM anticheat for ESX, QBCore, QBox and standalone servers with OneSync.
 </p>
 
 <p align="center">
@@ -20,12 +20,12 @@
 
 ## ⚡ Why MossShield
 
-- 🔌 **One line, done.** Drop the resource in, add one `ensure` line, restart once. MossShield adds itself to your other resources, so you never edit them by hand.
+- 🔌 **One line to install.** Drop the resource in, add one `ensure` line, restart once. MossShield adds itself to your other resources, so you never edit them by hand.
 - 🔨 **Instant bans with proof.** A screenshot and a short clip of the game are saved with every ban and posted to your Discord.
 - 🔄 **Automatic updates.** New detections arrive on their own as signed updates.
-- 🧩 **Every license unlocks everything.** No tiers, no paid add-ons for the important stuff.
+- 🧩 **Every license unlocks everything.** No tiers, no paid add-ons.
 
-![MossShield website](assets/website.png)
+![MossShield website](https://r2.mossshield.xyz/brand/website-preview.png)
 
 ---
 
@@ -68,5 +68,5 @@ Every license includes every detection, the web panel, live view, ban clips in D
 ---
 
 <p align="center">
-  🛡️ <b>MossShield</b> keeps your FiveM server fair. Not affiliated with Rockstar Games, Take-Two Interactive or Cfx.re.
+  <sub>Not affiliated with Rockstar Games, Take-Two Interactive or Cfx.re.</sub>
 </p>

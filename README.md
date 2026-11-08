@@ -25,7 +25,7 @@
 - 🔄 **Automatic updates.** New detections arrive on their own as signed updates.
 - 🧩 **Every license unlocks everything.** No tiers, no paid add-ons.
 
-![MossShield website](https://r2.mossshield.xyz/brand/website-preview.png)
+![MossShield website](https://r2.mossshield.xyz/brand/website-preview.png?v=2)
 
 ---
 

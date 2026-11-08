@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://r2.mossshield.xyz/brand/feed-logo-256.png" alt="MossShield" width="140">
+  <img src="https://r2.mossshield.xyz/brand/feed-logo-256.png?v=2" alt="MossShield" width="140">
 </p>
 
 <h1 align="center">MossShield</h1>
@@ -25,15 +25,15 @@
 - 🔄 **Automatic updates.** New detections arrive on their own as signed updates.
 - 🧩 **Every license unlocks everything.** No tiers, no paid add-ons.
 
-![MossShield website](https://r2.mossshield.xyz/brand/website-preview.png?v=2)
+![MossShield website](https://r2.mossshield.xyz/brand/website-preview.png?v=3)
 
 ---
 
 ## 🎬 In action
 
 <p align="center">
-  <img src="https://r2.mossshield.xyz/brand/demo-1.gif" alt="MossShield in action" width="49%">
-  <img src="https://r2.mossshield.xyz/brand/demo-2.gif" alt="MossShield in action" width="49%">
+  <img src="https://r2.mossshield.xyz/brand/demo-1.gif?v=2" alt="MossShield in action" width="49%">
+  <img src="https://r2.mossshield.xyz/brand/demo-2.gif?v=2" alt="MossShield in action" width="49%">
 </p>
 
 ---

@@ -29,6 +29,15 @@
 
 ---
 
+## 🎬 In action
+
+<p align="center">
+  <img src="https://r2.mossshield.xyz/brand/demo-1.gif" alt="MossShield in action" width="49%">
+  <img src="https://r2.mossshield.xyz/brand/demo-2.gif" alt="MossShield in action" width="49%">
+</p>
+
+---
+
 ## 🎯 What it stops
 
 - 🎯 **Aimbot**, including aimbots that hide behind smoothing, curves and jitter, plus **silent aim**, **magic bullet** and **triggerbot**

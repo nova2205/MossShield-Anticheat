@@ -13,7 +13,8 @@
   <a href="https://mossshield.xyz">Website</a> ·
   <a href="https://mossshield.xyz/demo">Live demo</a> ·
   <a href="https://mossshield.xyz/#pricing">Pricing</a> ·
-  <a href="https://mossshield.xyz/status">Status</a>
+  <a href="https://mossshield.xyz/status">Status</a> ·
+  <a href="https://discord.gg/HKMhRnurpZ">Discord</a>
 </p>
 
 ---
@@ -72,7 +73,7 @@
 
 Every license includes every detection, the web panel, live view, ban clips in Discord and automatic updates.
 
-👉 **[Get MossShield](https://mossshield.xyz/#pricing)** · **[Try the live demo](https://mossshield.xyz/demo)**
+👉 **[Get MossShield](https://mossshield.xyz/#pricing)** · **[Try the live demo](https://mossshield.xyz/demo)** · **[Join our Discord](https://discord.gg/HKMhRnurpZ)**
 
 ---
 

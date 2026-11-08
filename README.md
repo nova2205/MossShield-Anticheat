@@ -60,7 +60,7 @@
 - 🗺️ **3D city map** to follow players live
 - 🔍 **Player lookup** with ban history and linked accounts
 - 🛠️ **Bans, logs, players and settings** in one place. Every detection can be set to off, warn, kick or ban
-- 👥 **Staff roles** for owners, admins and moderators, with two-factor sign-in
+- 👥 **Individual permissions** for every admin, with two-factor sign-in
 - 🇩🇪 🇬🇧 German and English
 
 ---

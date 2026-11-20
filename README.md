@@ -53,11 +53,13 @@
 | 📨 **Event abuse** | Known framework exploits, negative amounts, event spam |
 | 🕳️ **Backdoors** | Backdoors hidden in your resources |
 
-Deutsch: [FiveM Anticheat](https://mossshield.xyz/de/fivem-anticheat) · [Aimbot](https://mossshield.xyz/de/fivem-aimbot) · [Mod Menu](https://mossshield.xyz/de/fivem-mod-menu) · [Godmode und Noclip](https://mossshield.xyz/de/fivem-godmode-noclip) · [Modder](https://mossshield.xyz/de/fivem-modder)
+Works with **[ESX](https://mossshield.xyz/fivem-esx-anticheat)**, **[QBCore and QBox](https://mossshield.xyz/fivem-qbcore-anticheat)** and standalone servers. Every ban lands in the **[ban system](https://mossshield.xyz/fivem-ban-system)** with a clip, a ban ID and one-click revoke.
+
+Deutsch: [FiveM Anticheat](https://mossshield.xyz/de/fivem-anticheat) · [Aimbot](https://mossshield.xyz/de/fivem-aimbot) · [Mod Menu](https://mossshield.xyz/de/fivem-mod-menu) · [Godmode und Noclip](https://mossshield.xyz/de/fivem-godmode-noclip) · [Modder](https://mossshield.xyz/de/fivem-modder) · [ESX](https://mossshield.xyz/de/fivem-esx-anticheat) · [QBCore](https://mossshield.xyz/de/fivem-qbcore-anticheat) · [Ban System](https://mossshield.xyz/de/fivem-ban-system) · [Admin Menu](https://mossshield.xyz/de/fivem-admin-menu)
 
 ---
 
-## 📱 In-game admin tablet, free with every license
+## 📱 [FiveM admin menu](https://mossshield.xyz/fivem-admin-menu): in-game tablet, free with every license
 
 ![MossShield in-game admin tablet](https://mossshield.xyz/brand/tablet-preview.webp)
 
